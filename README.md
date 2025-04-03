@@ -4,7 +4,7 @@
 ## Notes:
 ### Data summary + link
 NBA data
-Link:
+Link: https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=Advanced.csv
 
 ### Data cleaning
 
