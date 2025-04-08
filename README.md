@@ -26,25 +26,25 @@ Data Cleaning
 
 
 ### Models
-# MVP
+#### MVP
 - Regression (linear or logistic)
 - Features
     Team wins,
     Typical per game stats (fg%, points, rebounds, assists, etc),
     Age / experience,
 - Go back and find the best MVP season ever (run only on MVP winners)
-# DPOY
+#### DPOY
 - Trees
 - Features
 	- Typical per game defensive stats
 	- Team points allowed per game
-# ROTY
+#### ROTY
 - Logistic Regression
 - Only keep where the player experience is 1 for training
 - Features
 	- Typical per game stats - fg%, points, rebounds, assists, etc
 	- Minutes played
-# 1ST Team
+#### 1ST Team
 - Regression (linear or logistic) or trees by position- 2 guards, 3 forwards/centers
 - Features: Similar to mvp
 
